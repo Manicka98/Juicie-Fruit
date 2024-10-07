@@ -24,7 +24,9 @@ body{
 nav{
     background-color: black;
     color: aliceblue;
+    position: sticky;
 }
+
 .nav-link{
     color: aliceblue;
 }
